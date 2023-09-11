@@ -2,7 +2,7 @@
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
-# TODO LIST
+# 3 COLUMN PREVIEW CARD
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/devggui/3-column-preview-card)
 ![GitHub language count](https://img.shields.io/github/languages/count/devggui/3-column-preview-card)
